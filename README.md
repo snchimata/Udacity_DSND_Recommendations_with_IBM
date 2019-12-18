@@ -1,4 +1,4 @@
-# Udacity_DSND_Recommendations_with_IBM
+# Udacity DSND Recommendations with IBM
 Project is part of Udacity Data Science Nano-degree
 
 ## Introduction
@@ -25,6 +25,6 @@ Discuss possible methods for moving forward and test recommendations.
 
 ## Files
 
-1. Recommendations_with_IBM.ipynb - Code and analysis
+1. `Recommendations_with_IBM.ipynb` - Code and analysis
 2. `data`  - dataset folder
 3. `project_tests.py` - tests scripts
